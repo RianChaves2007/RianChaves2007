@@ -2,8 +2,6 @@
 
 **`Estudante de Ciências da Computação`**
 
-descrissão...
-
 <div align="center">
   <a href="https://github.com/RianChaves2007">
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=RianChaves2007&show_icons=true&theme=holi&locale=pt-br" />
